@@ -15,7 +15,7 @@
 		<h3> 
                         <?php echo  echo "El repositorio git es como un directorio de trabajo global en el que podemos subir todo nuestro trabajo para compartir con los compañeros. Es un control de versiones"; ?>
                 </h3>
-
+		<img src="cohete.jpeg"/>
 
 	</body>
 
