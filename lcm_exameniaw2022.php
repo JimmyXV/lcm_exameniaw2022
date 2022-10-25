@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title> Ejemplo de php modficiado para git </title>
+	<link rel= "stylesheet" href="style.css"/>
 	</head>
 	<body>
 		<h1> 
